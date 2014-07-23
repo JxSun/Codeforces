@@ -7,7 +7,7 @@
 
 int main()
 {
-    int x, y, i, n;
+    int x, y, n;
     int answer;    
 
     scanf("%d %d", &x, &y);
